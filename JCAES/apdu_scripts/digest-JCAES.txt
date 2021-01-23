@@ -1,0 +1,12 @@
+Digest for com/zul/aes/javacard/Header.cap		[SHA-256: 0b9bc067938b984f46897c1a1c92a8150e27a5d2e92e0313be9b809664f56cdb]
+Digest for com/zul/aes/javacard/StaticField.cap		[SHA-256: 73e1847e0c67711747f6440f535ab5d50d4fbb47e8abc8bff1bb662c78a2d30e]
+Digest for com/zul/aes/javacard/Descriptor.cap		[SHA-256: ab9fcb3b5cbb60a0d90c79455cdf7f6250cc25ec69e5f33adf25bcc2ea5a14f2]
+Digest for com/zul/aes/javacard/RefLocation.cap		[SHA-256: a854414e49798d32fc423154c5c9cebec707e614bf7ac0540f5e30d6af667104]
+Digest for com/zul/aes/javacard/Class.cap		[SHA-256: 67e85499cd81b26d384ec17c661f5c4e90b2a370721562e01b0841e7f0fcb0a5]
+Digest for com/zul/aes/javacard/Debug.cap		[SHA-256: d79db17a5934003b85082e3df9819c448b71401656063afc1eccb64e97cd15ee]
+Digest for com/zul/aes/javacard/Method.cap		[SHA-256: 30d52cea9149c7cfaaa031e7c6bd04a845ff93b72458d3c83fa7c3e4ec198922]
+Digest for com/zul/aes/javacard/Directory.cap		[SHA-256: c0099df2611c8a08250580914052daf8e67362ffa8dec3b373e673ff66e258c2]
+Digest for com/zul/aes/javacard/Import.cap		[SHA-256: eee5e4284e79aeec5338d83f7078c2a6f848d1f701a0f98683f37c04411f9db1]
+Digest for com/zul/aes/javacard/Applet.cap		[SHA-256: 775277f001a2ebf3d691a2ac97a30135506af5ebd3bf836e00843dc1232d74d0]
+Digest for com/zul/aes/javacard/ConstantPool.cap		[SHA-256: aa0f86617abe29523f5a2b2a4cbbf8abe6cce6a6fae63bc160933205d1657db8]
+Verification completed with 0 warnings and 0 errors.
